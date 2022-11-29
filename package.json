@@ -1,0 +1,18 @@
+{
+  "name": "gggten01",
+  "main": "./lib/gggten",
+  "version": "0.0.0",
+  "description": "asdkjahssssf",
+  "keywords": [
+    "asdsadasdas"
+  ],
+  "activationCommands": {
+    "atom-workspace": "gggten:toggle"
+  },
+  "repository": "https://github.com/nikini05/gggten",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
